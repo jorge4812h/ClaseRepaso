@@ -1,0 +1,68 @@
+[2024-05-16 21:39:49] [ ERROR] [DomicilioDAO:63] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:39:49] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:40:15] [ ERROR] [DomicilioDAO:63] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:40:15] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:42:09] [ ERROR] [PacienteDao:60] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-224]
+[2024-05-16 21:43:37] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:43:37] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:43:54] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:43:54] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:44:07] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:44:07] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:44:20] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:44:20] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:47:04] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:47:04] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:49:34] [ ERROR] [PacienteDao:106] Table "PACIENTES" not found (this database is empty); SQL statement:
+SELECT * FROM PACIENTES WHERE ID=? [42104-224]
+[2024-05-16 21:49:46] [ ERROR] [PacienteDao:106] Table "PACIENTES" not found (this database is empty); SQL statement:
+SELECT * FROM PACIENTES WHERE ID=? [42104-224]
+[2024-05-16 21:51:42] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:51:42] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:52:48] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:52:48] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 21:56:48] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 21:56:48] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 22:01:02] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES(DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 22:01:02] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 22:01:02] [ ERROR] [PacienteDao:106] Table "PACIENTES" not found (this database is empty); SQL statement:
+SELECT * FROM PACIENTES WHERE ID=? [42104-224]
+[2024-05-16 22:05:00] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES (DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 22:05:00] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 22:06:56] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES (DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 22:06:56] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 22:08:19] [ ERROR] [DomicilioDAO:64] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS VALUES (DEFAULT,?,?,?,?) [42104-224]
+[2024-05-16 22:08:19] [ ERROR] [PacienteDao:60] Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES VALUES(DEFAULT,?,?,?,?,?) [42104-224]
+[2024-05-16 22:11:21] [ INFO ] [DomicilioDAO:51] Domicilio Registrado: Domicilio(id=2, calle='Jr. Libertad', numero=860, localidad='Magdalena', provincia='Lima')
+[2024-05-16 22:11:21] [ INFO ] [PacienteDao:54] Paciente Registrado: dh.backend.model.Paciente@dc9876b
+[2024-05-16 22:16:16] [ INFO ] [DomicilioDAO:51] Domicilio Registrado: Domicilio(id=2, calle='Jr. Libertad', numero=860, localidad='Magdalena', provincia='Lima')
+[2024-05-16 22:16:16] [ INFO ] [PacienteDao:54] Paciente Registrado: dh.backend.model.Paciente@2dc9b0f5
